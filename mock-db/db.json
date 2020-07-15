@@ -1,0 +1,59 @@
+{
+  "categories": [
+    { "id": 1, "name": "Dược phẩm", "image": "Duocpham" },
+    {
+      "id": 2,
+      "name": "Thực phẩm chăm sóc sức khỏe ",
+      "image": "Thucphamcssk"
+    },
+    { "id": 3, "name": "Mỹ phẩm ", "image": "Mypham" },
+    { "id": 4, "name": "Thiết bị y tế", "image": "Thietbiyte" },
+    { "id": 5, "name": "Sản phẩm khác", "image": "Sanphamkhac" }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "images": [
+        {
+          "url": "http://www.hungvietpharma.vn/wp-content/uploads/2020/03/n%E1%BA%A5m-tr%C3%B9ng-th%E1%BA%A3o-600x600.jpg"
+        }
+      ],
+      "name": "Nấm trùng thảo Linh Chi Gold",
+      "price": "500",
+      "category": 1
+    },
+    {
+      "id": 2,
+      "images": [
+        {
+          "url": "http://www.hungvietpharma.vn/wp-content/uploads/2020/02/7f3b347292a46afa33b5-600x600.jpg"
+        }
+      ],
+      "name": "Tinh dầu tràm Bảo Linh",
+      "price": "400",
+      "category": 1
+    },
+    {
+      "id": 3,
+      "images": [
+        {
+          "url": "http://www.hungvietpharma.vn/wp-content/uploads/2020/02/ff126769fc14054a5c05-600x600.jpg"
+        }
+      ],
+      "name": "Bảo cốt Ogabone 40+",
+      "price": "800",
+      "category": 2
+    },
+    {
+      "id": 4,
+      "images": [
+        {
+          "url": "http://www.hungvietpharma.vn/wp-content/uploads/2020/02/B-Lubrex-600x600.jpg"
+        }
+      ],
+      "name": "B-lubrex",
+      "price": "700",
+      "category": 2
+    }
+  ]
+}
